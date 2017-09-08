@@ -1,0 +1,9 @@
+{
+    "cid": "8.1.8-commandfiles-1-ed59caca021c32f8117dcfdb9b0b47f6",
+    "data": {
+        "locale.d8": "\/home\/ubuntu\/.config\/composer\/vendor\/drush\/drush\/commands\/core\/locale.d8.drush.inc",
+        "views.d8": "\/home\/ubuntu\/.config\/composer\/vendor\/drush\/drush\/commands\/core\/views.d8.drush.inc"
+    },
+    "created": 1490191215,
+    "expire": 0
+}

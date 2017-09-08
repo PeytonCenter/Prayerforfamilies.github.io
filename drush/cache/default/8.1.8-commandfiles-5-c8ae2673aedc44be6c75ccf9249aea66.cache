@@ -1,0 +1,19 @@
+{
+    "cid": "8.1.8-commandfiles-5-c8ae2673aedc44be6c75ccf9249aea66",
+    "data": {
+        "locale.d8": "\/home\/ubuntu\/.config\/composer\/vendor\/drush\/drush\/commands\/core\/locale.d8.drush.inc",
+        "views.d8": "\/home\/ubuntu\/.config\/composer\/vendor\/drush\/drush\/commands\/core\/views.d8.drush.inc",
+        "ckeditor": "sites\/all\/modules\/contrib\/ckeditor\/includes\/ckeditor.drush.inc",
+        "colorbox": "sites\/all\/modules\/contrib\/colorbox\/drush\/colorbox.drush.inc",
+        "ctools": "sites\/all\/modules\/contrib\/ctools\/drush\/ctools.drush.inc",
+        "libraries": "sites\/all\/modules\/contrib\/libraries\/libraries.drush.inc",
+        "metatag_importer": "sites\/all\/modules\/contrib\/metatag\/metatag_importer\/metatag_importer.drush.inc",
+        "metatag": "sites\/all\/modules\/contrib\/metatag\/metatag.drush.inc",
+        "security_review": "sites\/all\/modules\/contrib\/security_review\/security_review.drush.inc",
+        "token": "sites\/all\/modules\/contrib\/token\/token.drush.inc",
+        "views_bulk_operations": "sites\/all\/modules\/contrib\/views_bulk_operations\/views_bulk_operations.drush.inc",
+        "views": "sites\/all\/modules\/contrib\/views\/drush\/views.drush.inc"
+    },
+    "created": 1490204122,
+    "expire": 0
+}
